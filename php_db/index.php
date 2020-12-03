@@ -10,7 +10,7 @@ function confirmation(e) {
 <?php
     
 	//ini_alter('date.timezone','Asia/Calcutta');
-      //------------------------------
+      //--------------- showing records with delete/edit option / one can add record also---------------
                 $s = "localhost";
                 $u = "root";
                 $p = "";
